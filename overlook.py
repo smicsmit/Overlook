@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-overlook — your wallpaper, breathing.
+overlook — your terminal, breathing.
 
 A living terminal scene: twinkling stars, a moon, slow clouds drifting
 through the star field, a village across the water with lit windows that
